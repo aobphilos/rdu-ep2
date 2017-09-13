@@ -1,30 +1,19 @@
-# rdu-ep2
+# Vuetify Webpack SSR Template
 
-> Rational Drug Use - Episode 2
+> Vuetify SSR Webpack Template
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+vue init vuetifyjs/webpack-ssr
+
+cd webpack-ssr
+
+# npm
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+# yarn
+yarn
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For additional information, please visit the [Official Documentation](https://vuetifyjs.com).
